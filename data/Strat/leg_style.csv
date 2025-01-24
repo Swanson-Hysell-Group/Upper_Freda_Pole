@@ -1,0 +1,6 @@
+﻿facies,R,G,B,width,swatch
+cover,255,255,255,0.1,0
+siltstone,240,59,32,0.1,616
+sandstone,253,174,107,0.1,607
+crossbedded sandstone,206,131,111,0.1,610
+conglomerate,242,195,110,0.1,602
