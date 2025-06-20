@@ -1,6 +1,6 @@
 tab delimited	contribution
-id	timestamp	contributor	data_model_version
-20259	2025-01-22T20:39:53.475Z	@anthonyjfuentes	3.0
+id	timestamp	contributor	data_model_version	lab_names
+20259	2025-01-22T20:39:53.475Z	@anthonyjfuentes	3.0	Paleomagnetism Laboratory (University of California, Berkeley, USA)
 >>>>>>>>>>
 tab delimited	locations
 location	location_type	citations	geologic_classes	lithologies	lat_s	lat_n	lon_w	lon_e	age	age_low	age_high	age_unit
